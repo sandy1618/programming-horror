@@ -3,6 +3,12 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+C++_STLs/
+**/C++_STLs/
+**/C++_STLs
+
+
+
 
 # Other files and folders
 .settings/
