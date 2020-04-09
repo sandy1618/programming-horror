@@ -1,3 +1,5 @@
+Please suggest better ways of implemnentations. Feel free to use them in any codebase you write. No Copyrights :)
+
 ### Data Structures Covered :
 
 * [Array]()
@@ -24,6 +26,7 @@
 * [Suffix Array]()
 * [Fibonacci Heap]()
 * [Red Black Tree]()
+* [Quad Tree]()
 * [Graphs]()
 * [Breadth First Search]()
 * [Depth First Search]()
@@ -33,7 +36,8 @@
 * [Sets]()
 * [Hash Table]()
 * [Map]()
-* [Ditributed Persistent Data Structures]()
+* [Distributed Data Structures]()
+* [Persistent Data Structures]()
 
 ### Algorithms Covered :
 
@@ -104,6 +108,10 @@
 * [Strongly Connected Components]()
 * [Travelling Salesman Problem]()
 * [Convex Hull]()
+* [Regular Expressions]()
+* [Basic Parsser]()
+* [Buy Sell Stock K times]()
+* [k-Way Sorting]()
 
 ### Maths Covered :
 
@@ -119,3 +127,5 @@
 * [nPr Formula]()
 * [Bentley Ottoman Technique]()
 * [Line Sweep Technique]()
+* [Centroid Finding]()
+* [K-Means Cluster]()
