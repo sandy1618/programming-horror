@@ -1,3 +1,5 @@
+Please suggest better ways of implemnentations. Feel free to use them in any codebase you write. No Copyrights :)
+
 ### Data Structures Covered :
 
 * [Array]()
