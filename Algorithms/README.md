@@ -31,6 +31,9 @@
 * [Backtracking Search]()
 * [Union Find Sets]()
 * [Sets]()
+* [Hash Table]()
+* [Map]()
+* [Ditributed Persistent Data Structures]()
 
 ### Algorithms Covered :
 
@@ -85,7 +88,7 @@
 * [Floyd Warshal's Algorithm]()
 * [Snakes & Ladders Problem]()
 * [Edit Distance Problem]()
-* [Egg Drep Problem]()
+* [Egg Drop Problem]()
 * [Cell Traversal Problem]()
 * [Longest Common Substring Problem]()
 * [Longest Common Subsequence Problem]()
@@ -99,6 +102,8 @@
 * [Rectangle Intersections Problem]()
 * [Max-Flow Algoithm]()
 * [Strongly Connected Components]()
+* [Travelling Salesman Problem]()
+* [Convex Hull]()
 
 ### Maths Covered :
 
